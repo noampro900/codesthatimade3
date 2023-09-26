@@ -1,0 +1,12 @@
+p = int(input("Please enter your birth year: "))
+
+if p >= 2010:
+    r = input("Are you scared of violence in games? (yes/no): ")
+    if r == "yes":
+        print("Sorry, you can't play Fortnite, as it involves violence.")
+    elif r == "no":
+        print("Okay, you can play this game.")
+    else:
+        print("Invalid response. Please enter 'yes' or 'no'.")
+else:
+    print("Sorry, you are under the age to play Fortnite.")
