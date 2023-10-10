@@ -1,0 +1,12 @@
+e = input("please enter what type of windows do you wanna get")
+
+if e=="windows 11" :
+   print("its cost 2569.90₪")
+   
+elif e=="windows 10" :
+    print("its cost 999.90₪")
+   
+
+else :
+    print("tools costs 50₪")
+   
