@@ -1,0 +1,31 @@
+# theres tow ways to do it
+
+# 1.
+for gf in range(30):
+    print(gf) 
+print("30")
+
+
+print ("--------------------------------------------------------------")#ignore this
+
+
+
+
+#2.
+
+for gh in range(30):
+    print(gh+1)
+    
+    
+    
+    
+print("---------------------------------------------------------------------------")#ingore this again
+
+
+#3. bonus
+
+
+
+    
+for bbn in range(31):
+    print(bbn)
